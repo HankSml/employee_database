@@ -14,7 +14,8 @@ const home = [
             'Add an Employee',
             'Update an Employee`s Role',
             'Quit'
-        ]
+        ],
+        loop: false
     }
 ];
 
