@@ -21,7 +21,7 @@ const home = [
 
 const qAddDepartment = [
     {
-        name: 'newDepartment',
+        name: 'deptName',
         message: 'What is the name of the new department?',
         type: 'input'
     },
